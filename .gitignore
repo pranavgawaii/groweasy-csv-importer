@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Builds
+frontend/.next/
+frontend/out/
+backend/dist/
+
+# Env files (never commit secrets)
+.env
+.env.local
+.env*.local
+backend/.env
+frontend/.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Vercel
+.vercel/
+
+# Agent configuration
+.claude/
+.claude

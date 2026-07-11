@@ -1,0 +1,9 @@
+created_time,id,full_name,email,phone_number,city,region,company_name,form_name,ad_name,platform,lead_status
+2026-05-13T14:20:48+05:30,l_1001,Rohan Mehta,rohan.mehta@gmail.com,+919876543210,Mumbai,Maharashtra,Mehta Textiles,Meridian Tower - Enquiry,MT_Carousel_Apr,fb,"Interested, asked for a callback tomorrow"
+2026-05-13T15:02:11+05:30,l_1002,Priya Nair,priya.nair@outlook.com,+919812345678,Kochi,Kerala,,Meridian Tower - Enquiry,MT_Video_Apr,ig,"Wants 3BHK, budget 1.2Cr"
+2026-05-14T09:45:00+05:30,l_1003,Aravind Kumar,,+918887776655,Bengaluru,Karnataka,Infosys,Eden Park - Site Visit,EP_Static_May,fb,Booked a site visit
+2026-05-14T11:10:33+05:30,l_1004,Sneha Kapoor,sneha.kapoor@yahoo.com,,Delhi,Delhi,,Eden Park - Site Visit,EP_Static_May,fb,Did not pick up the call twice
+2026-05-15T18:30:00+05:30,l_1005,Faisal Khan,faisal.khan@company.co,+971501234567,Dubai,,Gulf Traders LLC,Meridian Tower - Enquiry,MT_Carousel_Apr,ig,"NRI buyer, sale closed"
+2026-05-15T19:00:00+05:30,l_1006,Anonymous Visitor,,,Pune,Maharashtra,,Eden Park - Site Visit,EP_Static_May,fb,Spam / junk entry
+2026-05-16T08:15:20+05:30,l_1007,Deepa Raman,deepa.raman@gmail.com,+919900112233,Chennai,Tamil Nadu,,Meridian Tower - Enquiry,MT_Video_Apr,fb,"Not interested, budget too high"
+2026-05-16T10:05:45+05:30,l_1008,Vikram Singh,vikram.singh@rediffmail.com,+919765432100,Jaipur,Rajasthan,Singh Motors,Eden Park - Site Visit,EP_Static_May,ig,Asked to reschedule demo to next week
